@@ -10,3 +10,7 @@
 8) Convert tokens to embeddings using pytorch embeddings.
 9) Add positional embeddings to the token embeddings.
 10) Once this is done, you are all set to train.
+
+## Coding attention mechanisms.
+
+4 different types of attention models are created - simplified self attention, self attention, causal attention, multi-head attention.
