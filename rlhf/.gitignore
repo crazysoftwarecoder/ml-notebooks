@@ -1,0 +1,4 @@
+sft-checkpoints/
+sft-gpt2-dolly/
+ppo-gpt2/
+.ipynb_checkpoints/
