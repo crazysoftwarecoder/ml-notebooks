@@ -4,3 +4,10 @@
 .env
 .venv
 .env.local
+
+# Model weights and datasets (too large for GitHub)
+*.pth
+*.pt
+__pycache__/
+build-llm-from-scratch/gpt2/
+computer-vision training/data/
